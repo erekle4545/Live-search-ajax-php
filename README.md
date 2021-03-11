@@ -1,2 +1,2 @@
 # Live-search-ajax-php
-Live search jquery php
+Make Session langauge and DB config
